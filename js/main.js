@@ -23,43 +23,23 @@ if (navToggle && navMenu) {
 window.blogPosts = [
     {
         id: 1,
-        title: "DIY Wedding Centerpieces Under $20",
-        excerpt: "Create stunning centerpieces that look expensive but cost less than $20 each. Complete with supply lists and step-by-step tutorials.",
-        category: "diy",
-        date: "2024-12-15",
-        image: "💐",
+        title: "How to Plan a Wedding on a Budget: Step-by-Step Guide",
+        excerpt: "Learn how to plan a beautiful wedding on a budget with our step-by-step guide. Tips on prioritizing spending, DIY ideas, and smart planning tools.",
+        category: "planning",
+        date: "2026-01-21",
+        image: "💰",
         featured: true,
-        slug: "diy-wedding-centerpieces-under-20"
+        slug: "how-to-plan-a-wedding-on-a-budget"
     },
     {
         id: 2,
-        title: "Dollar Tree Wedding Decor That Looks High-End",
-        excerpt: "Transform Dollar Tree finds into elegant wedding decor that your guests will never guess came from a dollar store. Budget-friendly and beautiful.",
-        category: "decor",
-        date: "2024-12-10",
+        title: "Top 10 DIY Wedding Decorations Under $50",
+        excerpt: "Create beautiful wedding decorations on a budget with these 10 DIY ideas under $50 each. Budget-friendly, stylish, and customizable for any theme.",
+        category: "diy",
+        date: "2026-01-21",
         image: "✨",
         featured: true,
-        slug: "dollar-tree-wedding-decor"
-    },
-    {
-        id: 3,
-        title: "Wedding Signage You Can Make in One Afternoon",
-        excerpt: "Beautiful, customizable wedding signs you can create in just a few hours. Perfect for welcome signs, seating charts, and more.",
-        category: "crafts",
-        date: "2024-12-05",
-        image: "📋",
-        featured: true,
-        slug: "wedding-signage-one-afternoon"
-    },
-    {
-        id: 4,
-        title: "Beginner-Friendly DIY Wedding Crafts",
-        excerpt: "Simple wedding crafts that anyone can make, even if you're not crafty. Step-by-step guides with photos and supply lists.",
-        category: "crafts",
-        date: "2024-11-28",
-        image: "🎨",
-        featured: true,
-        slug: "beginner-friendly-diy-wedding-crafts"
+        slug: "top-10-diy-wedding-decorations-under-50"
     }
 ];
 
